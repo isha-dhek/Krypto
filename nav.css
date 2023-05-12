@@ -1,0 +1,31 @@
+body{
+    background: #010233;
+}
+nav {position: absolute;
+/* width: 1134px; */
+height: 51px;
+left: 188px;
+top: 42px;
+
+display: flex;
+flex-direction: row;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+li{
+height: 28px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+margin-left: 2%;
+
+color: #f9f9f9;
+
+}
